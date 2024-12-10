@@ -41,6 +41,7 @@ nav ul {
     transition: max-height 0.4s ease-out;
     max-height: none;
     overflow: visible;
+    margin-left: 60px;
 }
 
 nav ul li {
